@@ -258,10 +258,10 @@ img {
 */
 .team {
    background-color: #f4f4fd;
+   padding: 120px 0 120px;
 }
 
 .team-item {
-   padding-top: 120px;
    background-color: var(--light-color);
 }
 .team .list {
