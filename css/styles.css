@@ -53,6 +53,7 @@ ul {
 }
 .link {
    text-decoration: none;
+   padding: 24px 0;
 }
 
 .nav-logo {
