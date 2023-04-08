@@ -94,6 +94,8 @@ ul {
 
 .list {
    list-style: none;
+   display: flex;
+   gap: 40px;
 }
 .list .link {
    font-weight: 500;
