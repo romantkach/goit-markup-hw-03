@@ -129,6 +129,9 @@ ul {
    display: flex;
    gap: 40px;
 }
+.contact {
+   padding: 24px 0;
+}
 .address-item.link {
    color: var(--brand-color);
 }
