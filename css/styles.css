@@ -69,6 +69,11 @@ ul {
    font-size: 16px;
    line-height: 24px;
 }
+.nav .list {
+   display: flex;
+   margin-left: 76px;
+   gap: 40px;
+}
 
 .list {
    list-style: none;
