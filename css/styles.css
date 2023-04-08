@@ -257,12 +257,13 @@ img {
 |============================
 */
 .team {
-   background-color: #f4f4fd;
+   background-color: #f4f4fd
+   padding: 120px 0;;
 }
 
 .team-item {
    background-color: var(--light-color);
-   padding: 120px 0 120px;
+   padding: 120px 0;
 }
 .team .list {
    display: flex;
