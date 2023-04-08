@@ -18,7 +18,28 @@ body {
    color: var(--brand-color);
    background-color: var(--background-color);
 }
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul {
+   margin: 0;
+}
 
+/**
+|============================
+| header section
+|============================
+*/
+.header {
+   display: flex;
+   align-items: center;
+   margin: 0 auto 0 auto;
+   border-bottom: 1px solid var(--heder-border-cl);
+}
 .link {
    text-decoration: none;
 }
