@@ -125,6 +125,10 @@ ul {
 .address {
    font-style: normal;
 }
+.header-address {
+   display: flex;
+   gap: 40px;
+}
 .address-item.link {
    color: var(--brand-color);
 }
