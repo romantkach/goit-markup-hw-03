@@ -91,7 +91,19 @@ ul {
    margin-left: 76px;
    gap: 40px;
 }
-
+.nav-link {
+   font-family: "Roboto", sans-serif;
+   font-weight: 500;
+   font-size: 16px;
+   line-height: 1.5;
+   letter-spacing: 0.02em;
+   color: var(--main-text-color);
+   margin-right: 40px;
+   margin-left: 40px;
+   margin-bottom: 25, 5px;
+   margin-bottom: 25, 5px;
+   display: flex;
+}
 .list {
    list-style: none;
    display: flex;
