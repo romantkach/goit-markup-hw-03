@@ -138,6 +138,8 @@ ul {
 
 .hero {
    background-color: var(--header-link-color);
+   display: block;
+   padding: 188px 0;
 }
 .hero-title {
    font-family: "Roboto";
