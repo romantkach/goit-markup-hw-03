@@ -257,6 +257,7 @@ img {
 |============================
 */
 .team {
+   padding-top: 120px;
    padding-bottom: 120px;
    background-color: #f4f4fd;
 }
