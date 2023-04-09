@@ -328,6 +328,9 @@ img {
    width: 264px;
 }
 /* portfolio */
+.section-portfolio {
+   padding: 96px 0 120px;
+}
 .portfolio-btn {
    display: flex;
    flex-direction: row;
