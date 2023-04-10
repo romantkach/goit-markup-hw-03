@@ -379,7 +379,7 @@ img {
 }
 
 .card {
-   width: 360px;
+   width: calc(100%-24px) / 3;
    background: #ffffff;
 }
 .card-categories {
